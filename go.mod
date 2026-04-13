@@ -1,6 +1,6 @@
 module 12-sprint-final/m
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/stretchr/testify v1.11.1
